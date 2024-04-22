@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vzXA/aTwxzFKKdBTDyoDmCrYvrNTOo1kTTqC8NjxSdc=",
+  "Source": "WebAPITaskSchedulerRW",
+  "BasePath": "_content/WebAPITaskSchedulerRW",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

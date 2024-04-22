@@ -1,0 +1,14 @@
+<div>
+  <h2>Schedule Task</h2>
+  <form #form="ngForm" (ngSubmit)="submitForm(form)">
+    <div class="form-group">
+      <label for="url">URL:</label>
+      <input type="text" id="url" name="url" class="form-control" ngModel required>
+    </div>
+    <div class="form-group">
+      <label for="cronExpression">Cron Expression:</label>
+      <input type="text" id="cronExpression" name="cronExpression" class="form-control" ngModel required>
+    </div>
+    <button type="submit" class="btn btn-primary">Schedule</button>
+  </form>
+</div>

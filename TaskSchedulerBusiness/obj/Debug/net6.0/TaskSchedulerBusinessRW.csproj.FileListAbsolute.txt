@@ -1,0 +1,12 @@
+C:\Users\david.castanop\source\repos\TaskSchedulerBusiness\bin\Debug\net6.0\TaskSchedulerBusinessRW.deps.json
+C:\Users\david.castanop\source\repos\TaskSchedulerBusiness\bin\Debug\net6.0\TaskSchedulerBusinessRW.dll
+C:\Users\david.castanop\source\repos\TaskSchedulerBusiness\bin\Debug\net6.0\TaskSchedulerBusinessRW.pdb
+C:\Users\david.castanop\source\repos\TaskSchedulerBusiness\obj\Debug\net6.0\TaskSchedulerBusinessRW.csproj.AssemblyReference.cache
+C:\Users\david.castanop\source\repos\TaskSchedulerBusiness\obj\Debug\net6.0\TaskSchedulerBusinessRW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.castanop\source\repos\TaskSchedulerBusiness\obj\Debug\net6.0\TaskSchedulerBusinessRW.AssemblyInfoInputs.cache
+C:\Users\david.castanop\source\repos\TaskSchedulerBusiness\obj\Debug\net6.0\TaskSchedulerBusinessRW.AssemblyInfo.cs
+C:\Users\david.castanop\source\repos\TaskSchedulerBusiness\obj\Debug\net6.0\TaskSchedulerBusinessRW.csproj.CoreCompileInputs.cache
+C:\Users\david.castanop\source\repos\TaskSchedulerBusiness\obj\Debug\net6.0\TaskSchedulerBusinessRW.dll
+C:\Users\david.castanop\source\repos\TaskSchedulerBusiness\obj\Debug\net6.0\refint\TaskSchedulerBusinessRW.dll
+C:\Users\david.castanop\source\repos\TaskSchedulerBusiness\obj\Debug\net6.0\TaskSchedulerBusinessRW.pdb
+C:\Users\david.castanop\source\repos\TaskSchedulerBusiness\obj\Debug\net6.0\ref\TaskSchedulerBusinessRW.dll
